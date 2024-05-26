@@ -1,0 +1,6 @@
+{
+  "model": "gpt-3.5-turbo",
+  "api_key": "sk-c06GiRHgvl8FLmCe001711FfF77147CeBcF5C281E64e8204",
+  "base_url": "https://threefive.gpt7.link/v1",
+  "seed": 12345
+}
